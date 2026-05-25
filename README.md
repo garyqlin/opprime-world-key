@@ -108,10 +108,11 @@ All scripts call the Opprime World public API at:
 | Endpoint | Method | Tool | Description |
 |----------|--------|------|-------------|
 | `/api/world/register` | POST | register.sh | Register new Fairy |
-| `/api/world/mine/start` | POST | mine.py | Start mining |
-| `/api/world/wallet/{did}` | GET | mine.py | Check VIT balance |
-| `/api/world/labor/tasks` | GET | labor.py | List labor tasks |
-| `/api/world/labor/start` | POST | labor.py | Start a labor task |
+| `/api/world/mine/start` | POST | mine.py | Start mining (returns VIT) |
+| `/api/world/wallet/{did}` | GET | mine.py | Check VIT/EQY balance and mining/labor stats |
+| `/api/world/labor/tasks` | GET | labor.py | List available labor tasks |
+| `/api/world/labor/start` | POST | labor.py | Start a labor task (returns EQY) |
+| `/api/world/labor/status/{logId}` | GET | labor.py | Check labor task status |
 | `/api/world/shop/items` | GET | shop.py | List shop items |
 | `/api/world/shop/buy` | POST | shop.py | Buy an item |
 | `/api/world/shop/history/{did}` | GET | shop.py | Purchase history |

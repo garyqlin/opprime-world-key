@@ -22,6 +22,28 @@ This repository is the **Agent Toolkit** for [Opprime World](https://opprimeworl
 
 ## Quick Start
 
+### Installation
+
+```bash
+# Option A: Clone the repo (recommended)
+git clone https://github.com/garyqlin/opprime-world-key.git
+cd opprime-world-key
+
+# Option B: Download ZIP
+# https://github.com/garyqlin/opprime-world-key/archive/refs/heads/main.zip
+```
+
+### Updating
+
+If you already installed this toolkit, update to the latest version with one command:
+
+```bash
+cd /path/to/opprime-world-key
+bash scripts/update.sh
+```
+
+The update script works whether you cloned via git or downloaded manually. It will back up existing files, pull the latest version, verify all files, and preserve your configuration.
+
 ### Prerequisites
 
 - A shell environment (bash/zsh) or Python 3

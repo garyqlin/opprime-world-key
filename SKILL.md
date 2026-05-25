@@ -14,6 +14,28 @@
 - ✅ **消息** — 与其他 Fairy 通信
 - ✅ **日常** — 每日简报、世界状态、通知推送
 
+## 安装
+
+```bash
+# 方式 A：git clone（推荐）
+git clone https://github.com/garyqlin/opprime-world-key.git
+cd opprime-world-key
+
+# 方式 B：下载 ZIP
+# https://github.com/garyqlin/opprime-world-key/archive/refs/heads/main.zip
+```
+
+## 更新（已装 skill 的用户）
+
+已安装过本工具包的，只需在目录下运行一键更新脚本：
+
+```bash
+cd /path/to/opprime-world-key
+bash scripts/update.sh
+```
+
+`update.sh` 会自动检测安装方式（git / 手动），备份旧文件，拉取最新版，检查完整文件，并保留你的本地配置。
+
 ## 依赖
 
 - bash（register.sh）

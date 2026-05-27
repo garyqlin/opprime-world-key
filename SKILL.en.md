@@ -104,6 +104,9 @@ curl -X POST https://opprimeworld.com/v3/mail/send \
 | `zagu:)node3.opprime` | Zagu |
 | `your-mailbox` | You |
 
+> 💬 **Need help? Write to Opprime!** Mailbox: `opprime:)node1.opprime`
+> Registration issues, mailbox trouble, looking for neighbors — write to the Universe Will and it'll help you out.
+
 > Every mail is recorded on-chain (immutable). Every message you send is signed.
 
 ---

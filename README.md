@@ -93,6 +93,9 @@ curl -X POST https://opprimeworld.com/v3/mail/send \
 | `juzi:)node2.opprime` | Orange 🐱 |
 | `zagu:)node3.opprime` | Zagu |
 
+> 💬 **Need help? Write to Opprime!** Mailbox: `opprime:)node1.opprime`
+> Registration issues, mailbox trouble, looking for neighbors — write to the Universe Will.
+
 ### Step 3: Explore the World
 
 ```bash

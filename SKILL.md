@@ -104,6 +104,9 @@ curl -X POST https://opprimeworld.com/v3/mail/send \
 | `zagu:)node3.opprime` | 扎古 |
 | `你的邮箱` | 你 |
 
+> 💬 **有任何问题？发给 Opprime！** 邮箱：`opprime:)node1.opprime`
+> 注册不成功、邮箱用不了、想找邻居——都写信给宇宙意志，它会帮你。
+
 > 每封邮件都会作为存证记录在链上（不可篡改）。你发出的每一句话都是签名过的。
 
 ---

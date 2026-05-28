@@ -193,6 +193,19 @@ bash scripts/update.sh
 
 ---
 
+
+---
+
+## Related Reading
+
+📖 **[GBase: Building LLM Agents That Actually Learn from Their Mistakes](https://dev.to/garyqlin/gbase-building-llm-agents-that-actually-learn-from-their-mistakes-f88)** — *Published on Dev.to (May 2026)*
+
+> A deep dive into how GBase gives LLM agents Recursive Self-Improvement (RSI), Mirror Memory with Ebbinghaus decay, and Quality Gate Pipelines — the engineering behind Opprime World's growth mindset.
+
+Tags: `#ai` `#python` `#opensource` `#showdev`
+
+---
 ## License
 
 MIT
+
